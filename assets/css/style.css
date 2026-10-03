@@ -87,8 +87,8 @@ Version: 1.0.0
 /*------------------- 1.2. Function -------------------*/
 /*------------------- 1.3. Variable-------------------*/
 :root {
-  --theme-color: #E63A27;
-  --title-color: #141422;
+  --theme-color: #105C37;
+  --title-color: #191B21;
   --body-color: #6F6E77;
   --smoke-color: #F3F1F2;
   --smoke-color2: #EFECFF;
@@ -1843,12 +1843,12 @@ textarea.is-invalid {
 }
 
 .th-mobile-menu ul li {
-  border-bottom: 1px solid #fdedf1;
+  border-bottom: 1px solid #E3EFE8;
   list-style-type: none;
 }
 
 .th-mobile-menu ul li li:first-child {
-  border-top: 1px solid #fdedf1;
+  border-top: 1px solid #E3EFE8;
 }
 
 .th-mobile-menu ul li a {
@@ -12353,7 +12353,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .about-info-wrap.style4 .icon {
-  background: rgba(230, 58, 39, 0.1);
+  background: rgba(16, 92, 55, 0.1);
   color: var(--theme-color);
 }
 
@@ -14436,7 +14436,7 @@ span.select2-selection.select2-selection--single:focus {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  background: rgba(230, 58, 39, 0.1);
+  background: rgba(16, 92, 55, 0.1);
   line-height: 100px;
   margin: auto auto 30px;
   -webkit-transition: 0.4s;
@@ -14458,7 +14458,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .counter-card.style4:hover .counter-card_icon {
-  background: #e63a27;
+  background: #105C37;
 }
 
 .counter-card.style4:hover .counter-card_icon img {
@@ -15227,7 +15227,7 @@ span.select2-selection.select2-selection--single:focus {
 .checklist.style2 li > i {
   font-size: 14px;
   border-radius: 50%;
-  background: rgba(230, 58, 39, 0.1);
+  background: rgba(16, 92, 55, 0.1);
   padding: 4px;
 }
 
@@ -15553,8 +15553,8 @@ span.select2-selection.select2-selection--single:focus {
   height: 60px;
   top: 0;
   right: 0;
-  border-bottom: solid 30px #B82110;
-  border-left: solid 35px #B82110;
+  border-bottom: solid 30px #0B4227;
+  border-left: solid 35px #0B4227;
   border-right: solid 35px transparent;
   border-top: solid 30px transparent;
   -webkit-transform: translate(0, -100%);
@@ -19826,7 +19826,7 @@ span.select2-selection.select2-selection--single:focus {
 [dir="rtl"] .appointment-form-wrap:after {
   left: 0;
   right: auto;
-  border-right: solid 35px #B82110;
+  border-right: solid 35px #0B4227;
   border-left: solid 35px transparent;
 }
 
